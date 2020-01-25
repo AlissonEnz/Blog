@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  alissonenz:
+  alisson:
     name: Alisson Enz
     display_name: Alisson Enz
     avatar: "assets/images/alissonenz.jpg"
@@ -25,9 +25,9 @@ authors:
   thomas:
     name: Thomas Mendes
     display_name: Thomas Mendes
-    avatar: "assets/images/avatar.png"
+    avatar: "assets/images/thomas.png"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
+    email: thomasmendesdt@gmail.com
     twitter: https://twitter.com/wowthemesnet
     description: ""
 
