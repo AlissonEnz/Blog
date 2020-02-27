@@ -1,20 +1,20 @@
 # Site
-name: "Enz & Mendes"
-title: "Enz & Mendes"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "EnzRossi Blog"
+title: "EnzRossi Blog"
+description: "Just another startup blog"
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
 baseurl:
-google_analytics: ""
+google_analytics: "UA-85973243-2"
 disqus: ""
-mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
+mailchimp-list: "https://enzrossi.us19.list-manage.com/subscribe?u=d9de1d0cbf5cd45cb14a8d94e&id=2cfdb05291"
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  alisson:
-    name: Alisson Enz
+  alissonenz:
+    name: Alisson Enz Rossi
     display_name: Alisson Enz
     avatar: "assets/images/alissonenz.jpg"
     gravatar: 12045d8f20c76e89ec699d6572108720
@@ -22,14 +22,6 @@ authors:
     web: https://enzrossi.com.br
     twitter: https://twitter.com/alissonenz
     description: "Mobile and web developer, loves innovative and minimalist designs. Bestseller reader and coffee lover"
-  thomas:
-    name: Thomas Mendes
-    display_name: Thomas Mendes
-    avatar: "assets/images/thomas.png"
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: thomasmendesdt@gmail.com
-    twitter: https://twitter.com/wowthemesnet
-    description: ""
 
 # Plugins
 plugins:

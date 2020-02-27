@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Let's test spoilers"
-author: thomas
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+title: "Let's test spoilers"
+author: alissonenz
+categories: [Jekyll, tutorial]
+image: assets/images/13.jpg
 featured: true
 ---
 
