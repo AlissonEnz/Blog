@@ -9,18 +9,18 @@ google_analytics: "UA-85973243-2"
 disqus: ""
 mailchimp-list: "https://enzrossi.us19.list-manage.com/subscribe?u=d9de1d0cbf5cd45cb14a8d94e&id=2cfdb05291"
 include: ["_pages"]
-permalink: /:title/
+permalink: "/:title/"
 
 # Authors
 authors:
   alissonenz:
-    name: Alisson Enz Rossi
-    display_name: Alisson Enz
+    name: "Alisson Enz Rossi"
+    display_name: "Alisson Enz"
     avatar: "assets/images/alissonenz.jpg"
-    gravatar: 12045d8f20c76e89ec699d6572108720
-    email: alisson@enzrossi.com.br
-    web: https://enzrossi.com.br
-    twitter: https://twitter.com/alissonenz
+    gravatar: "12045d8f20c76e89ec699d6572108720"
+    email: "alisson@enzrossi.com.br"
+    web: "https://enzrossi.com.br"
+    twitter: "https://twitter.com/alissonenz"
     description: "Mobile and web developer, loves innovative and minimalist designs. Bestseller reader and coffee lover"
 
 # Plugins
@@ -41,7 +41,7 @@ jekyll-archives:
 
 # Pagination
 paginate: 6
-paginate_path: /page:num/
+paginate_path: "/page:num/"
 
 # Other
 markdown: kramdown

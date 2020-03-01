@@ -2,8 +2,8 @@
 layout: post
 title: "Let's get started"
 author: alissonenz
-categories: [101, introduction]
-image: assets/images/01.jpg
+categories: [introduction]
+image: "assets/images/01.jpg"
 featured: true
 ---
 
